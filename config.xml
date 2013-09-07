@@ -3,7 +3,7 @@
     xmlns:gap = "http://phonegap.com/ns/1.0"
     id        = "com.phonegap.example"
     version   = "1.0.0">
-<icon src="icon.png" />
+<icon src="images/icon.png" />
 <name>یەکێتی نیشتمانی کوردستان</name>
 
 <description>
